@@ -252,7 +252,6 @@ This project demonstrates mastery of:
 - ✅ Production deployment practices
 
 ## 📜 License
-
 This project is created for educational purposes as part of SQL Bootcamp.
 
 
