@@ -8,7 +8,6 @@
 ![Dashboard Preview](dashboard_preview.png)
 
 ## 🎯 Project Overview
-
 This project demonstrates enterprise-grade SQL analytics capabilities, transforming raw retail data into actionable business insights. Built as the capstone project for SQL Bootcamp, it showcases real-world data engineering and analytics patterns used at companies like Flipkart, Amazon, and Swiggy.
 
 ### Key Features
