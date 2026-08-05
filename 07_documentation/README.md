@@ -255,11 +255,6 @@ This project demonstrates mastery of:
 
 This project is created for educational purposes as part of SQL Bootcamp.
 
-## 👨‍💻 Author
 
-**SQL Bootcamp**  
-Instructor: Sayyed Siraj Ali
 
----
 
-⭐ If you found this project helpful, please give it a star!
